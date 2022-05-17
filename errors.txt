@@ -1,0 +1,18 @@
+Type:
+reject
+
+Promise:
+[object Promise]
+
+Promise:
+
+Reason:FetchError: request to https://discord.com/api/v9/gateway/bot failed, reason: socket hang up
+
+
+
+
+
+
+
+
+
