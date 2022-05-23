@@ -44,7 +44,8 @@ Add your requirements to the config.json found in ./Structures/config.json
 
 
     
-
+## ❗ Errors & Fixes
+If you are having trouble installing `ffmpeg` please use `ffmpeg-static`. You can remove ffmpeg from the `package.json`. 
 
 ## 🤝 Code Usage
 
